@@ -1,0 +1,17 @@
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/bin/Debug/net5.0/Application.deps.json
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/bin/Debug/net5.0/Application.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/bin/Debug/net5.0/Application.pdb
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/bin/Debug/net5.0/Domain.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/bin/Debug/net5.0/Persistence.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/bin/Debug/net5.0/Domain.pdb
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/obj/Debug/net5.0/Application.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Application/obj/Debug/net5.0/Application.pdb

@@ -1,0 +1,15 @@
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Persistence/obj/Debug/net5.0/Persistence.pdb

@@ -1,0 +1,12 @@
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/bin/Debug/net5.0/Domain.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/obj/Debug/net5.0/Domain.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/abdurrahman/Desktop/mojChallengeVRO/Domain/obj/Debug/net5.0/Domain.pdb
